@@ -1,0 +1,19 @@
+{
+  "name": "workout-tracker",
+  "version": "1.0.0",
+  "description": "## Table of Contents * [Introduction](#introduction)  * [Demo Images](#demo-images) * [Contact](#contact) * [Links](#links)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banda-adrian/Workout-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banda-adrian/Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/banda-adrian/Workout-Tracker#readme"
+}
