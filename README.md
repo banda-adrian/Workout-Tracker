@@ -1,4 +1,4 @@
-# Workout-Trackerx
+# Workout-Tracker
 
 ## Table of Contents
 * [Introduction](#introduction) 
@@ -11,11 +11,11 @@ Quick introduction of Application
 
 ## Demo Images
 
-![screenshot](assets/images/template1.jpg) 
+![screenshot](public/assets/images/index.png) 
 
 ## Contact
 If you want to contact me you can reach me at banda_adrian@outlook.com
 
 ## Links
-[Heroku](link)  
+[Heroku](https://workout-tracker-ab.herokuapp.com/)  
 [Github Profile](https://github.com/banda-adrian)
